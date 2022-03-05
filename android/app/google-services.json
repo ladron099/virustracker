@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "963943175601",
+    "project_id": "covid-tracker-2-9e66e",
+    "storage_bucket": "covid-tracker-2-9e66e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963943175601:android:82d3e83735e042e5249990",
+        "android_client_info": {
+          "package_name": "com.example.covidtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963943175601-8rvifmgnucqa5f266jqk839mqlc04s0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATZ995XdDnQ7l-yeNEsJJ7PsuYERz1Qk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963943175601-8rvifmgnucqa5f266jqk839mqlc04s0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
