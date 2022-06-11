@@ -1,0 +1,13 @@
+const  urLink = "https://api-virus-tracker.herokuapp.com/api";
+const declareURL = urLink + "/user/addContamination";
+const metWithURL = urLink + "/user/addContact";
+const modifyUserURL = urLink + "/user/modifyUser";
+const modifyPassURL = urLink + "/user/modifyPassword";
+const getVirusesURL = urLink + "/user/getViruses";
+const getUserURL = urLink + "/user/getUser";
+const createUserURL = urLink + "/user/register";
+const loginURL = urLink + "/login";
+const checkEmailURL = urLink + "/user/checkEmail";
+const deleteUserURL = urLink + "/user/deleteUser";
+const resetPassURL = urLink + "/user/resetPassword";
+const updateToken = urLink + "/user/updateToken";

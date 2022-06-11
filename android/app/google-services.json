@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "709574116238",
+    "project_id": "virus-f2eda",
+    "storage_bucket": "virus-f2eda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709574116238:android:a113179aa993fbb0649adf",
+        "android_client_info": {
+          "package_name": "com.example.covidtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709574116238-sdvbqepa2sqvt1i6gdj9k79gvs7nkkic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ9A97vxI3DuHidJxl3TRea0Kw7SLIvnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709574116238-sdvbqepa2sqvt1i6gdj9k79gvs7nkkic.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "709574116238-79849bcan69eok99f34d3rt7hte56v8s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.covidtracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
